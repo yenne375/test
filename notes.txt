@@ -1,0 +1,6 @@
+jenkins is a continous intregration tool which helps us to build pipeline.
+Teamcity is also another integration tool
+
+pipeline
+
+--developer--->git-->apache maven----->testing(selenium)----->ansible/chef/puppet---->UAT/PROD(docker)----->Nagios(monitoring)
